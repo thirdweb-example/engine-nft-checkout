@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import "../styles/globals.css";
+import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Buy NFTs via stripe checkout | thirdweb Engine",
+  title: "Fiat NFT checkout | thirdweb Engine",
 };
 
 export default function RootLayout({
